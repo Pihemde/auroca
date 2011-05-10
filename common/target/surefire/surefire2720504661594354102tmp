@@ -1,0 +1,5 @@
+#surefire
+#Sat Mar 26 21:41:04 CET 2011
+user.dir=/home/pierre-marie/workspace/sources/svn/googlecode.com/cat-droid/trunk/common
+localRepository=/home/pierre-marie/.m2/repository
+basedir=/home/pierre-marie/workspace/sources/svn/googlecode.com/cat-droid/trunk/common
