@@ -1,0 +1,1 @@
+Lego Mindstorms autonomous rover cartographer which communicate by bluetooth with a Google Android phone
